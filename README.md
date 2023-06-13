@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagobadalo10" alt="tiagobadalo10" /></a> </p>
 
-- 🔭 I’m currently studying in **@FCUL**
+- 🔭 BsC in Computer Science in **@FCUL**
+- 🔭 Currently in MsC in Computer Science in **@FCUL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
